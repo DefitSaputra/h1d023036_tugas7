@@ -53,15 +53,15 @@ lib/
 
 Berikut adalah tampilan antarmuka aplikasi:
 
-| Halaman | Deskripsi |
+| Halaman | Deskripsi | ![Halaman Form](assets/form_data.jpeg)
 | :--- | :--- |
-| **Login** | `screenshots/login.jpeg` |
-| **Home** | `screenshots/home.jpeg` |
-| **Add Note** | `screenshots/add_note.jpeg` |
-| **Edit Note** | `screenshots/edit_note.jpeg` |
-| **Profile** | `screenshots/profile.jpeg` |
-| **About** | `screenshots/about.jpeg` |
-| **Sidebar** | `screenshots/sidebar.jpeg` |
+| **Login** | !(screenshots/login.jpeg) |
+| **Home** | !(screenshots/home.jpeg) |
+| **Add Note** | !(screenshots/add_note.jpeg) |
+| **Edit Note** | !(screenshots/edit_note.jpeg) |
+| **Profile** | !(screenshots/profile.jpeg) |
+| **About** | !(screenshots/about.jpeg) |
+| **Sidebar** | !(screenshots/sidebar.jpeg) |
 
 > *Catatan: Pastikan file gambar telah tersedia di dalam folder `screenshots/` sesuai nama di atas.*
 
